@@ -160,6 +160,7 @@ bash train_e.sh
 
 
 ## 🗞️ News
+- **`2025-11-08`**: Our paper was accepted by **AAAI-2026**.
 - **`2025-05-14`**: We update the [paper](https://arxiv.org/abs/2503.21620) with UI-R1-E-3B.
 - **`2025-05-12`**: We release the [checkpoints](https://huggingface.co/LZXzju/Qwen2.5-VL-3B-UI-R1-E) of the UI-R1-E-3B model.
 - **`2025-05-12`**: We fix the bug of scales when batch_size > 1.
