@@ -5,16 +5,16 @@
 ## 🔥 Overview
 
 We propose **UI-R1**, the first framework to explore how rule-based RL can enhance the reasoning capabilities of multimodal large language models (MLLMs) for GUI action prediction tasks.
-<a href="">
-  <img src="assets/method.png" alt="Logo" >
-</a>
+<div align="center">
+  <img src="assets/method.png" alt="Logo" style="width:75%;">
+</div>
 
 
 Experimental results demonstrate that our proposed **UI-R1-3B** achieves significant improvements over the base model (i.e. Qwen2.5-VL-3B) on both in-domain (ID) and out-of-domain (OOD) tasks, with average accuracy gains of **22.1%** on ScreenSpot, **6.0%** on ScreenSpot-Pro, and **12.7%** on AndroidControl. Furthermore, UI-R1-3B delivers competitive performance compared to larger models (e.g., OS-Atlas-7B) trained via supervised fine-tuning (SFT) on 76K samples.
 
-<a href="">
-  <img src="assets/radar.png" alt="Logo" >
-</a>
+<div align="center">
+  <img src="assets/radar.png" alt="Logo" style="width:70%;">
+</div>
 
 ## Grounding Leaderboard: [UI-I2E-Bench](https://colmon46.github.io/i2e-bench-leaderboard/)
 |     Model      | ScreenSpot | UI-I2E-Bench Avg | ScreenSpot-Pro | Average  |
